@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Fernanda 👋
 
-<!--
-**fernandazambrano6449-maker/fernandazambrano6449-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la Licenciatura en Inteligencia Artificial y Ciencia de Datos en la Universidad de Guadalajara.
 
-Here are some ideas to get you started:
+Me interesa aplicar el aprendizaje automático y las redes neuronales, especialmente en el sector salud y en procesos administrativos/financieros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+- [Sistema de facturación (SQL + API)](https://github.com/fernandazambrano6449-maker/sistema-facturacion-sql) — Diseño relacional en MySQL con API en FastAPI
+- [Regresión logística — Titanic](https://github.com/fernandazambrano6449-maker/Machine-Learning) — Predicción de supervivencia, curva ROC y análisis de variables
+- [Predicción de posición en Fórmula 1](https://github.com/fernandazambrano6449-maker/Proyecto_cugdlA) — Proyecto de equipo con 5 modelos de Machine Learning
+
+## 🛠️ Herramientas
+
+Python · pandas · scikit-learn · MySQL · MongoDB · FastAPI
