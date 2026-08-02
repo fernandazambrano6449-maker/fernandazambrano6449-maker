@@ -12,4 +12,4 @@ Me interesa aplicar el aprendizaje automático y las redes neuronales, especialm
 
 ## 🛠️ Herramientas
 
-Python · pandas · scikit-learn · MySQL · MongoDB · FastAPI
+Python · pandas · scikit-learn · MySQL · FastAPI
